@@ -1,0 +1,2 @@
+# how_to_debug_redis_by_vscode_with_own_test
+如何自己写测试用例来调试redis代码,进行学习
